@@ -1,0 +1,6 @@
+// Multiplication Function: Multiplication.java
+public class Multiplication {
+    public static double performMultiplication(double num1, double num2) {
+        return num1 * num2;
+    }
+}
