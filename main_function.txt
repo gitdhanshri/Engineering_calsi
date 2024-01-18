@@ -1,0 +1,9 @@
+Main Calculator Class: Calculator.java
+import java.util.Scanner;
+
+public class Calculator {
+    public static void main(String[] args) {
+        // Main calculator logic
+        // You can include the menu and user interaction code here
+    }
+}
