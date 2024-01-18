@@ -1,0 +1,6 @@
+  // Addition Function: Addition.java
+public class Addition {
+    public static double performAddition(double num1, double num2) {
+        return num1 + num2;
+    }
+}
