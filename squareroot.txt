@@ -1,0 +1,6 @@
+// Square Root Function: SquareRoot.java
+public class SquareRoot {
+    public static double performSquareRoot(double num) {
+        return Math.sqrt(num);
+    }
+}
